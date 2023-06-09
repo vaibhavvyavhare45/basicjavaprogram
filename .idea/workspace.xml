@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5de1ef6-5d79-40c4-b579-804bae745dba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/basicjavaprogram.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prowings/stringinterviewprogram/ReverseString.java" afterDir="false" />
+    <list default="true" id="c5de1ef6-5d79-40c4-b579-804bae745dba" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -44,16 +38,19 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "F:/basicjavaprogram",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.tools"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StringGivenCharAvg">
-    <configuration name="FirstNonRepeatCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prowings.stringinterviewprogram.FirstNonRepeatCharacter" />
+  <component name="RunManager" selected="Application.JoinAndYieldMethodScenario">
+    <configuration name="FindStartWithGivenCharInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prowings.basicjava8program.FindStartWithGivenCharInString" />
       <module name="basicjavaprogram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prowings.stringinterviewprogram.*" />
+          <option name="PATTERN" value="com.prowings.basicjava8program.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InputCharWithReplaceOccurance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prowings.stringinterviewprogram.InputCharWithReplaceOccurance" />
+    <configuration name="FindStartWithGivenNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prowings.basicjava8program.FindStartWithGivenNumberInArray" />
       <module name="basicjavaprogram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prowings.stringinterviewprogram.*" />
+          <option name="PATTERN" value="com.prowings.basicjava8program.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocalDateforNextDayDate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prowings.java8interviewprogram.LocalDateforNextDayDate" />
+    <configuration name="JoinAndYieldMethodScenario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prowings.multithreading.JoinAndYieldMethodScenario" />
       <module name="basicjavaprogram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prowings.java8interviewprogram.*" />
+          <option name="PATTERN" value="com.prowings.multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringGivenCharAvg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prowings.stringinterviewprogram.StringGivenCharAvg" />
+    <configuration name="PrintDuplicateWordInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prowings.basicjava8program.PrintDuplicateWordInString" />
       <module name="basicjavaprogram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prowings.stringinterviewprogram.*" />
+          <option name="PATTERN" value="com.prowings.basicjava8program.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prowings.java8interviewprogram.StudentDemo" />
+    <configuration name="SequentialAndParallelStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prowings.basicjava8program.SequentialAndParallelStreamDemo" />
       <module name="basicjavaprogram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prowings.java8interviewprogram.*" />
+          <option name="PATTERN" value="com.prowings.basicjava8program.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringGivenCharAvg" />
-        <item itemvalue="Application.StudentDemo" />
-        <item itemvalue="Application.LocalDateforNextDayDate" />
-        <item itemvalue="Application.FirstNonRepeatCharacter" />
-        <item itemvalue="Application.InputCharWithReplaceOccurance" />
+        <item itemvalue="Application.JoinAndYieldMethodScenario" />
+        <item itemvalue="Application.SequentialAndParallelStreamDemo" />
+        <item itemvalue="Application.PrintDuplicateWordInString" />
+        <item itemvalue="Application.FindStartWithGivenCharInString" />
+        <item itemvalue="Application.FindStartWithGivenNumberInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -132,6 +129,22 @@
       <option name="presentableId" value="Default" />
       <updated>1681653416369</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1682196333922</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682196333922</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
